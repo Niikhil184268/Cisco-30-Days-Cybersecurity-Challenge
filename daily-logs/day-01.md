@@ -38,7 +38,7 @@ I didn't face any issues on this day, as it was more of a theoretical course.
 
 ## 6. Evidence
 
-![Day 1 - Cisco Networking Academy Module 1](../resources/day-01-evidence.png)
+![Day 1 - Cisco Networking Academy Module 1](../resources/day-01-evidence.png.png)
 
 *Screenshot showing the Cisco Networking Academy course page with Module 1: Introduction to Cybersecurity and its lessons.*
 
